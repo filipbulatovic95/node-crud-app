@@ -1,2 +1,2 @@
-# node-crud-app
-A simple node crud application
+# node-crud
+A simple node crud app
